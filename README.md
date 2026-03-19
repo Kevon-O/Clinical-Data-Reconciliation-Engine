@@ -24,7 +24,7 @@ Create a root .env file with:
 
 
 
-OPENAI\_API\_KEY=dev_key
+OPENAI\_API\_KEY="Use your OpenAi key here"
 
 OPENAI\_MODEL=gpt-5.4-mini
 
@@ -114,7 +114,7 @@ pip install -r requirements.txt
 
 
 
-OPENAI\_API\_KEY=dev_key
+OPENAI\_API\_KEY="use your OpenAi key here"
 
 OPENAI\_MODEL=gpt-5.4-mini
 
